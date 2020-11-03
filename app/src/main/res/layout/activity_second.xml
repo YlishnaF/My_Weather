@@ -9,7 +9,7 @@
     android:backgroundTintMode="src_over"
     android:orientation="vertical"
     android:padding="8dp"
-    tools:context=".MainActivity">
+    tools:context=".SecondActivity">
 
 
     <com.google.android.material.textfield.TextInputLayout
